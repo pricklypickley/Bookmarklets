@@ -1,0 +1,1 @@
+javascript:var maxn = prompt("max number for number generator", "100");alert(Math.floor(Math.random() * maxn)) + 1;
